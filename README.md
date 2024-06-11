@@ -3,6 +3,8 @@
 
 ## レンダリング画像
 パストレーシングと、多重重点的サンプリングを用いた手法で同一シーンをレンダリングした結果について示す。反射はLambertモデルと、Blinn Phongモデルを使用可能だが、下記の画像はすべてLambert反射を使用したものである。
+![パストレーシング](https://github.com/CGLkousei/basic_rendering/assets/147574806/b667192b-2ca9-4ed4-a178-4cca594215a2 "パストレーシングでのレンダリング")
+![多重重点的サンプリング](https://github.com/CGLkousei/basic_rendering/assets/147574806/d512c4b3-550c-4279-a4b9-717455fc1353 "多重重点的サンプリングを用いたレンダリング")
 
 ## 使用しているライブラリ
 * Eigen3
